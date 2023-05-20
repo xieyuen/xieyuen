@@ -1,5 +1,9 @@
 # Hi there 👋 ! I'm xieyuen
 
+emm... I'm a student. 
+
+Personal Page: [xieyuen.github.io](<https://xieyuen.github.io>)
+
 <!--
 **xieyuen/xieyuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
