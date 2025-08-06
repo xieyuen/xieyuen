@@ -2,8 +2,6 @@
 
 emm... I'm a student. 
 
-Personal Page: [www.xieyuen.link](<www.xieyuen.link>)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
