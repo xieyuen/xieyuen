@@ -8,9 +8,9 @@
 - 📫 How to reach me: [xieyuenol@outlook.com](mailto:xieyuenol@outlook.com)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xieyuen/xieyuen/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xieyuen/xieyuen/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src=https://github.com/xieyuen/xieyuen/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xieyuen/xieyuen/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xieyuen/xieyuen/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src=https://raw.githubusercontent.com/xieyuen/xieyuen/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## 🌐 Socials
