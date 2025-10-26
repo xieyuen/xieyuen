@@ -7,6 +7,12 @@
 - 🤔 I’m looking for help with more new ideas
 - 📫 How to reach me: [xieyuenol@outlook.com](mailto:xieyuenol@outlook.com)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xieyuen/xieyuen/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xieyuen/xieyuen/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src=https://raw.githubusercontent.com/xieyuen/xieyuen/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## 🌐 Socials
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xieyuenol@outlook.com)
